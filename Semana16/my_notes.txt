@@ -1,0 +1,4 @@
+Nota 1: Terminar la práctica de programación.
+Nota 2: Revisar apuntes de la clase de redes.
+Nota 3: Estudiar para el examen de Python.
+Nota 4: Subir tarea a GitHub antes del viernes.
